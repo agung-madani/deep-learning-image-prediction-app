@@ -1,4 +1,4 @@
-# Image Prediction Application
+# Deep Learning Image Prediction Application
 
 This repository contains a simple Python script that enables users to predict the contents of an image using various deep learning models. The application is built using the Tkinter library for creating a graphical user interface (GUI) and leverages the power of deep learning models from the Keras library for image classification.
 
